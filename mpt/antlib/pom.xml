@@ -76,7 +76,7 @@ to the library requiring no extra coding.</description>
                     <dependency>
                         <groupId>org.apache.ant</groupId>
                         <artifactId>ant</artifactId>
-                        <version>1.7.1</version>
+                        <version>1.10.9</version>
                     </dependency>
                 </dependencies>
                 <executions>
